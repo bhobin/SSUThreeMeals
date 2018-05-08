@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/camera_shot"
+        android:title="사진 촬영"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/move_gallay"
+        android:title="갤러리 이동"
+        app:showAsAction="always" />
+</menu>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu1"
+            android:icon="@drawable/drawer_notice"
+            android:title="공지사항" />
+        <item
+            android:id="@+id/menu2"
+            android:icon="@drawable/drawer_make"
+            android:title="만든사람들" />
+        <item
+            android:id="@+id/menu3"
+            android:icon="@drawable/drawer_setting"
+            android:title="설정" />
+    </group>
+</menu>
